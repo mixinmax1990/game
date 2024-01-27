@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dphiy4b8k2too"]
+
+[ext_resource type="Script" path="res://scenes/abilities/dragable/dragable.gd" id="1_fp87c"]
+
+[node name="dragable" type="Node2D"]
+script = ExtResource("1_fp87c")
